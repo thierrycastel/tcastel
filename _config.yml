@@ -4,6 +4,7 @@ subtitle: Thierry Blog
 language: "fr"
 
 baseurl:  "/tcastel"
+#cover:    /assets/mountain-cover.jpg
 
 sass:
     style: compressed
