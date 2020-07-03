@@ -1,2 +1,10 @@
 # Build settings
+title:    tcastel
+subtitle: Thierry Blog
+language: "fr"
+
+baseurl:  "/tcastel"
+
+sass:
+    style: compressed
 markdown: kramdown
