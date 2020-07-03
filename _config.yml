@@ -1,24 +1,3 @@
 # Build settings
-sass:
-    style: compressed
 markdown: kramdown
 remote_theme: jwillmer/jekyllDecent
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-include: ['_pages', "_data"]
-exclude: [vendor, "developer-tools"]
-plugins:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-jupyter-notebook
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  ignore:
-    envs: [local]
-  blanklines: true
-  startings: [head, body]
