@@ -49,7 +49,7 @@ head(mydrias)
 hist(mydrias$Tn)
 ```
 
-![png]({{ site.baseurl }}{{"/jupyter/output.png"}}){: .center-image }
+![png]({{ site.baseurl }}{{"/media/img/Rf1.png"}}){: .center-image }
 
 ```python
 
