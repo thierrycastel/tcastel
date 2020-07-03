@@ -1,0 +1,47 @@
+default:                                                      # Fallback if nothing is specified
+  initial:      tcastel                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Thierry Castel"                               # used to display author name
+  cover:        /assets/Foret_Gergueil2.jpg        # OPTIONAL: defines location of cover image in about page
+  picture:      /assets/Thierry_Castel.jpg                           # OPTIONAL: author picture
+  bio:          Short presentation                                  # OPTIONAL: text below author name in posts
+  location:     France                                       # OPTIONAL: used to display location of the author
+  website:      "http://climatologie.u-bourgogne.fr/"        # OPTIONAL: link to the author of a post
+  email:        "tcastel@u-bourgogne.fr"                     # OPTIONAL: used in the about page
+  twitter:                                                    # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
+  xing:                                                       # OPTIONAL: used in the about page
+  github:                                                     # OPTIONAL: used in the about page
+  stackoverflow:                                              # OPTIONAL: used in the about page
+  facebook:                                                   # OPTIONAL: used in the about page
+  gplus:                                                      # OPTIONAL: used in the about page
+  soundcloud:                                                 # OPTIONAL: used in the about page
+  youtube:                                                    # OPTIONAL: used in the about page
+  pinterest:                                                  # OPTIONAL: used in the about page
+  dribble:                                                    # OPTIONAL: used in the about page
+  behance:                                                    # OPTIONAL: used in the about page
+  spotify:                                                    # OPTIONAL: used in the about page
+  twitch:                                                     # OPTIONAL: used in the about page
+  s500px:                                                     # OPTIONAL: used in the about page
+  reddit:                                                     # OPTIONAL: used in the about page
+tcastel:
+  initial:      tcastel
+  name:         "Thierry Castel"       
+  cover:        /assets/Champ_Gergueil.jpg
+  picture:      /assets/CRC.png  
+  bio1:          CRC UMR 6282 Biogéosciences CNRS/uBFC/EPHE
+  bio2:          AgroSup Dijon -- Département 2A2E 
+  location:      21000 Dijon, France
+  email:        "tcastel@u-bourgogne.fr"
+  website:      "http://climatologie.u-bourgogne.fr/"      
+  twitch:       
+thierrycastel:
+  initial:      thierrycastel
+  name:         "Thierry Castel"
+  cover:        /assets/Foret_Gergueil2.jpg
+  picture:      /assets/Thierry_Castel.jpg  
+  bio:          Short curriculum vitae (CV)
+  email:        "tcastel@u-bourgogne.fr"
+  location:     AgroSup Dijon, France 
+  website:      "http://climatologie.u-bourgogne.fr/" 
+  twitter:      
+  github:       

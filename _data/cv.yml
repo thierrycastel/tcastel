@@ -1,0 +1,81 @@
+thierrycastel:
+    profile: "I'am an Associate Professor at AgroSup Dijon and a Researcher in the CRC climate team of the UMR 6282 Biogéosciences Lab, Dijon -- France"
+    skills:
+        - "Climate Dynamic and Variability, Land Surface Modelling, Remote Sensing"
+        - "Climate Data Analysis, Numerical Downscaling, SpatioTemporal Statistics"
+        - "ARW/WRF Regional Climate Model, GIS (ArcInfo, QGIS) Applications "
+        - "C, Fortran, Python, Perl, and R programming languages"
+        - "Latex typesetting, Unix/Linux, HPC systems"
+    education:
+        - time:             "Forthcoming"
+          location:         "University Burgundy-Franche-Comté"
+          description:      "HDR -- Climatology, Environmental Physics"
+        - time:             "1994 - 1998"
+          location:         "ENGREF : Paris Institute of technology for life, food and environmental sciences"
+          description:      "PhD in SAR Remote Sensing and Forest Sciences"
+        - time:             "1991 - 1992"
+          location:         "Paul Sabatier Toulouse III University"
+          description:      "DEA (equiv. MSc) in Remote Sensing"
+
+    employment:
+        - time:             "Since 2005"
+          location:         "Dijon, France"
+          company:          "CRC UMR 6282 Biogéosciences CNRS/uBFC"
+          position:         "Research associate"
+          responsibilities:
+            - "Multi-Scales Climate Variability Analysis"
+            - "Regional Climate Simulations"
+            - "Climate Change Impacts Assessment"
+        - time:             "since 2003"
+          location:         "ex. ENESAD Dijon -- France"
+          company:          "AgroSup "
+          position:         "Associate Professor"
+          responsibilities:
+            - "Undergraduate tutor 1st and 2nd year Environment/Climate/GIS"
+            - "Undergraduate Lecturer in GIS and Climate (Water cycle, Climate Change)"
+            - "Graduate Lecturer and tutor in the R2D2C 3rd year speciality (Climate change, Spatial Analysis and Statistics)"
+            - "Graduate Lecturer in the Master 2 SEME (Climate analysis, Water Balance Modelling)"
+        - time:             "2001 -- 2003"
+          location:         "Dijon, France"
+          company:          "ENESAD"
+          position:         "Assistant Professor"
+          responsibilities:
+            - "Undergraduate tutor 1st and 2nd year Environment/GIS"
+            - "Undergraduate Lecturer in GIS"
+        - time:             "2000 -- 2001"
+          location:         "Toulouse, France"
+          company:          "CESBIO"
+          position:         "Postdoctoral research fellow"
+          responsibilities:
+            - "SAR Remote Sensing of forested areas"
+        - time:             "1998 -- 2000"
+          location:         "Montpellier, France and Caracas, Venezuela"
+          company:          "CIRAD AMAP & Fundación Instituto de Ingeniería"
+          position:         "Postdoctoral research fellow"
+          responsibilities:
+            - "Retrieval of pine forest biomass from SAR data"
+        - time:             "1993 -- 1994"
+          location:         "Toulouse, France"
+          company:          "Minister for the Armed Forces"
+          position:         "Military Service"
+          responsibilities:
+            - "Data management and analysis -- Military hospital CHA Larrey"
+
+    teaching:
+        - time:             "since 2016"
+          team:             " SEME (Sol, Eau, Milieux et Environnement)"
+          title:            "Co-director of the Master 2 SEME"
+          technologies:     "Climate data anlysis and assessment"
+          responsibilities:
+            - "Module 'Climate : from data to impacts' "
+            - "Module 'Statistical Downscaling' "
+ 
+    projects:
+        - time:             "2012--2016"
+          team:             "Climate Change Impacts"
+          title:            "HYCCARE-Bourgogne"
+          technologies:     "Climate observations, simulations and water ressource impacts"
+          responsibilities:
+            - "Head of the Hydroclimatic simulations Work-Package"
+            - "High resolution dynamical downscaling"
+            - "Climate data assessment"
