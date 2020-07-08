@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "R climate data practices"
+title:             "UE4: R climate data practices"
 tags:              Read ascii data from Drias site
 category:          Code Features
 author:            tcastel
@@ -16,14 +16,14 @@ Pour rappel :
 </ul>
 
 
-```python
+```R
 ## file data from drias : 'tasmintasmaxrstr_metro_CNRM_Aladin_histo_QT_REF_19750101-20051231_1810161527930443.KEYu11UB3Ax3u02D2uxu0D0.zip'
 ## unzip produces the file : 'tasmintasmaxrstr_metro_CNRM_Aladin_histo_QT_REF_19750101-20051231.txt'
 ## skip value is estimate by counting header lines up to the data
 mydrias <- read.csv("tasmintasmaxrstr_metro_CNRM_Aladin_histo_QT_REF_19750101-20051231.txt", header = FALSE, skip=53)
 ```
 
-```python
+```R
 colnames(mydrias) <- c("date","idpt","lat","lon","alti","Tn","Tx","RR") 
 ## A adapter en fonction de l'ordre que vous avez précisé lors de l'extration des données sur le site Drias
 head(mydrias)
@@ -45,12 +45,11 @@ head(mydrias)
 </tbody>
 </table>
 
-```python
+```R
 hist(mydrias$Tn)
 ```
 
 ![png]({{ site.baseurl }}{{"/media/img/Rf1.png"}}){: .center-image }
 
-```python
 
-```
+## *Pour la suite nous vous renvoyons sur le [notebook](https://github.com/thierrycastel/tcnotebook)* 
