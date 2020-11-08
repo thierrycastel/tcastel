@@ -36,4 +36,4 @@ Une fois le calcul effectué vous explorerez les résultats en traçant le bilan
 
 * A partir de là vous aurez en main toutes les étapes pour (re)produire le calcul du bilan sur vos données Drias et de Kc qui dépendent de votre choix.
 
-Il conviendra enfin de réfléchir à des indices synthétiques pertinent qui permettront de 1** synthétiser l'information sur le BH et 2** en utilisant ces indices calculés sur le période historique (1975-2005) et sur la période projetée (2070-2100) d'évaluer l'impact du CC sur ce bilan.
+Il conviendra enfin de réfléchir à des indices synthétiques pertinent qui permettront 1) de synthétiser l'information sur le BH et 2) en utilisant ces indices calculés sur le période historique (1975-2005) et sur la période projetée (2070-2100) d'évaluer l'impact du CC sur ce bilan.
