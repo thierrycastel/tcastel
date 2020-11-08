@@ -33,6 +33,6 @@ A l'issu de ce TP toute les données nécessaires pour le calcul du Bilan Hydriq
 Dernière étape qui vise à calculer le Bilan Hydrique à partir des données climatiques Drias, du Kc et de la réserve utile i.e. taille du réservoir.
 Une fois le calcul effectué vous explorerez les résultats en traçant le bilan hydrique et d'autres variables.
 
-A partir de là vous aurez en main toutes les étapes pour (re)produire le calcul du bilan sur vos données Drias et de Kc qui dépend de voitre choix.
+A partir de là vous aurez en main toutes les étapes pour (re)produire le calcul du bilan sur vos données Drias et de Kc qui dépend de votre choix.
 
-Il conviendra enfin de réfléchir à des indices synthétique pertinent qui permettront de 1) synthétiser l'information sur le BH et 2) en utilisant ces indice calculé sur le période historique (1975-2005) et sur la période projetée (2070-2100) d'&vluer l'impact du CC sur ce bilan.
+Il conviendra enfin de réfléchir à des indices synthétique pertinent qui permettront de 1) synthétiser l'information sur le BH et 2) en utilisant ces indice calculé sur le période historique (1975-2005) et sur la période projetée (2070-2100) d'évaluer l'impact du CC sur ce bilan.
