@@ -21,7 +21,7 @@ Ce TP a été conduit avec QGIS. Les actions conduites ont permis de lire la car
 
 Récupération de Kc au pas de temps mensuel pour 4 occupations du sol. Interpolation de ces données mensuelles au pas de temps journalier. Pour cela 3 méthodes d'interpolation ont été appliquées. Cette démarche sera à appliquer sur les données de Kc de l'occupation du sol que vous avez choisi.
 
-### TP#3 ETP : Calcul de l'EvapoTranspiration Potentielle [**ici**](https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE4/UE4_TP3_ETP.ipynb**
+### TP#3 ETP : Calcul de l'EvapoTranspiration Potentielle [**ici**](https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE4/UE4_TP3_ETP.ipyn)
 
 Ce TP sera conduit au cours des séances du lundi 9 novembre et du mardi 10 novembre en distanciel. On cherchera à calculer pour chaque point de grille Drias et à partir des données climatiques simulées l'ETP. Nous utiliserons l'équation de **Hargreaves** basée sur les températures min et max, la latitude et le jour de l'année. Cette équation est implémentée dans une fonction.
 
