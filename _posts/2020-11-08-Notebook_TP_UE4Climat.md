@@ -29,7 +29,7 @@ Ce TP sera conduit au cours des séances du lundi 9 novembre et du mardi 10 nove
 
 * A l'issu de ce TP toutes les données nécessaires pour le calcul du Bilan Hydrique seront disponibles dans le dataframe *'mydrias'*.
 
-### TP#4 BH : Calcul de l'EvapoTranspiration Potentielle [**ici**](https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE4/UE4_TP4_BH.ipynb)
+### TP#4 BH : Calcul du Bilan Hydrique/jour/point de grille [**ici**](https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE4/UE4_TP4_BH.ipynb)
 
 Dernière étape qui vise à calculer le Bilan Hydrique à partir des données climatiques Drias, du Kc et de la réserve utile i.e. taille du réservoir.
 Une fois le calcul effectué vous explorerez les résultats en traçant le bilan hydrique et d'autres variables.
