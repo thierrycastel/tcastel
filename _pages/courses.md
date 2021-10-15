@@ -52,8 +52,8 @@ The lecture takes place within the Climate-Soil module (24h). Only few hours are
 
 | Lecture topics  (4h)                     | Application sessions (2h)     |
 |------------------------------------------|-------------------------------|
-| [Large scale climate dynamics and changes](https://filesender.renater.fr/?s=download&token=5fbfc80a-b6dc-4d6d-bc32-23ea812637b3) | #1 Agroclimatic application : |
-| [Regional to local climate variability](https://filesender.renater.fr/?s=download&token=ebfdca8d-e754-44e2-aa6a-606a8ea5ea76)    | Frequency analysis method     |
+| [Large scale climate dynamics and changes](https://filesender.renater.fr/?s=download&token=8efc912f-d5ef-4953-9a5c-4e6a4c22d970) | #1 Agroclimatic application : |
+| [Regional to local climate variability](https://filesender.renater.fr/?s=download&token=ebfdca8d-e754-44e2-aa6a-606a8ea5ea76)    | [Frequency analysis method](https://filesender.renater.fr/?s=download&token=e56b7a12-6eac-4457-9ca4-aae92ce98537)     |
 |                                          |                               |
 |                                          |                               |
 |                                          |                               |
