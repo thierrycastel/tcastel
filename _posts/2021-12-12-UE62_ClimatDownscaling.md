@@ -18,7 +18,7 @@ Le travail se découpe en 5 principales étapes :
 ### 1-Récupération et post-traitement des données de Tn, Tx et Pluie de CMIP6 et des stations Météo-France
 La descente d'échelle et le débiaisage des données se fera sur la région Bourgogne Franche-Comté
 
-Pour la lecture et la récupération des données CLIP6 nous utiliserons le package R : **ncdf4**
+Pour la lecture et la récupération des données CMIP6 nous utiliserons le package R : **ncdf4**
 
 Les étapes de cette partie sont illustrées pour la température minimale Tn et sont présentées sur le [**Notebook_CMIP6**](https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE62/UE62_readCMIP6.ipynb)
 
