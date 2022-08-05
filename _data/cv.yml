@@ -1,5 +1,5 @@
 thierrycastel:
-    profile: "I'am an Associate Professor at AgroSup Dijon and a Researcher in the CRC climate team of the UMR 6282 Biogéosciences Lab, Dijon -- France"
+    profile: "I'am an Associate Professor at Institut Agro Dijon and a Researcher in the CRC climate team of the UMR 6282 Biogéosciences Lab, Dijon -- France"
     skills:
         - "Climate Dynamic and Variability, Land Surface Modelling, Remote Sensing"
         - "Climate Data Analysis, Numerical Downscaling, SpatioTemporal Statistics"
@@ -7,9 +7,9 @@ thierrycastel:
         - "C, Fortran, Python, Perl, and R programming languages"
         - "Latex typesetting, Unix/Linux, HPC systems"
     education:
-        - time:             "Forthcoming"
+        - time:             "Forthcoming -- December 2022"
           location:         "University Burgundy-Franche-Comté"
-          description:      "HDR -- Climatology, Environmental Physics"
+          description:      "HDR -- Régionalisation climatique : de la données aux impacts"
         - time:             "1994 - 1998"
           location:         "ENGREF : Paris Institute of technology for life, food and environmental sciences"
           description:      "PhD in SAR Remote Sensing and Forest Sciences"
