@@ -41,4 +41,4 @@ My research focuses on the regionalization of climate information. The main emph
 * [Castel T., A. Beaudoin, N. Stach, N. Stussi, T. Le Toan and P. Durand (2001) Sensitivity of space-borne SAR data to forest parameters over sloping terrain. Theory and experiment, International Journal of Remote Sensing, 22:12, 2351-2376.](https://doi.org/10.1080/01431160121407)
 
 
-**[Publications listed on HAL](https://hal.archives-ouvertes.fr/search/index/?q=%2A&sort=producedDate_tdate+desc&authId_i=121472&page=1)** 
+**[Publications listed on HAL](https://cv.hal.science/thierry-castel?langChosen=fr)** 

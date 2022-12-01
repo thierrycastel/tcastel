@@ -7,9 +7,10 @@ thierrycastel:
         - "C, Fortran, Python, Perl, and R programming languages"
         - "Latex typesetting, Unix/Linux, HPC systems"
     education:
-        - time:             "Forthcoming -- December 2022"
+        - time:             "Forthcoming 31 mai 2022"
           location:         "University Burgundy-Franche-Comté"
-          description:      "HDR -- Régionalisation climatique : de la données aux impacts"
+          jury :            "Jury : Julien Boé (DR CNRS), Nicolas Viovy (DR CEA), Vincent Dubreuil (PR Univ. Rennes 2), Nathalie Bréda (DR INRAE), Yves Richard (PR Univ. Bourgogne)"
+          description:      "HDR -- Régionalisation climatique : de la données aux impacts du changement"
         - time:             "1994 - 1998"
           location:         "ENGREF : Paris Institute of technology for life, food and environmental sciences"
           description:      "PhD in SAR Remote Sensing and Forest Sciences"
