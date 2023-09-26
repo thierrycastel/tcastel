@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "UE2 M2SEME: analyse spatiale avec QGIS"
+title:             "UE2 M2SEME: Interpolation spatiale"
 date:              2023-09-26 23:50:00 +0300
 tags:              GIS
 category:          GIS Features
