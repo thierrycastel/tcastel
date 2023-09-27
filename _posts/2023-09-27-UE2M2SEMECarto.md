@@ -43,6 +43,14 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant 
 * Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage
 * Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.
 
+### Séance 5 : Cartographie des cumuls moyen des pluies annuelles
+
+* Import des cartes des cumuls moyen des pluies annuelles dans QGIS;
+* Calcul du facteur d'érosivité pluviométrique;
+* Croisement avec la carte des risques de fuite du phosphore sur le BV;
+
+* Attendu pour l'évaluation de la partie traitement des données de l'UE2
+* Données pour l'évaluation [ici](https://filesender.renater.fr/?s=download&token=b7c1f8ce-ced6-4b98-bc57-b52720435887)
 
 
 Nous reviendrons au cours du TP sur les différentes étapes.
