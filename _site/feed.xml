@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thierry Castel</title>
+    <description></description>
+    <link>http://localhost:4000/tcastel/</link>
+    <atom:link href="http://localhost:4000/tcastel/feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Thu, 20 Jun 2024 18:13:47 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2024 18:13:47 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Module SIG TP2 : occupation du sol autour du Lez</title>
+        <description>&lt;p&gt;La zone tampon de 1000m autour du Lez est d’une superficie de 5627,58 ha. En terme d’occupation du sol et en réponse au point 4 du TP2 SIG cette zone tampon se compose comme suit :&lt;/p&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;http://localhost:4000/tcastel/media/imgis/Lez.jpeg#center&quot; /&gt;
+      &lt;figcaption&gt;CLC Lez &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        <pubDate>Fri, 08 Dec 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/tcastel/sig%20features/2023/12/08/TP2SIG.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/sig%20features/2023/12/08/TP2SIG.html</guid>
+        
+        <category>Résultats</category>
+        
+        <category>zone</category>
+        
+        <category>tampon</category>
+        
+        <category>CLC</category>
+        
+        <category>Lez</category>
+        
+        
+        <category>SIG Features</category>
+        
+      </item>
+    
+      <item>
+        <title>UE4 Climat : de la donnée à l&apos;adaptation</title>
+        <description>&lt;p&gt;L’UE Climat s’articule autour de séquences assurées par des intervenant(e)s sur les thèmes indiqués dans le tableau ci-dessous. Ces séquences seront complétées par une mise en application qui suivra la progressivité de l’UE et illustrera les différents points abordés par les intervenant(e)s. Pour cela un applicatif centré sur «Impact du changement climatique sur la ressource en eau en Bourgogne Franche-Comté» servira de fil conducteur.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Thèmes&lt;/th&gt;
+      &lt;th&gt;Intervenants extérieurs&lt;/th&gt;
+      &lt;th&gt;heures&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Services et portails climatiques&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Agnès Tamburini&lt;/strong&gt;, Météo-France&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Impacts hydriques et hydrologiques&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Eric Sauquet&lt;/strong&gt;, INRAE&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Impacts sur les agro-écosystèmes&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Annabelle Larmure&lt;/strong&gt;, Institut Agro Dijon&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stratégies d’adaptation&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;En attente&lt;/strong&gt;,&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Applicatif&lt;/th&gt;
+      &lt;th&gt;Intervenants&lt;/th&gt;
+      &lt;th&gt;heures&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Impacts CC sur la ressource en eau&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;T. Castel&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;J. Crétat&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;En amont de l’applicatif il vous est demandé de réaliser les taches suivantes :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;vous inscrire sur le portal &lt;a href=&quot;http://www.drias-climat.fr/&quot;&gt;&lt;strong&gt;DRIAS&lt;/strong&gt;&lt;/a&gt; de Météo-France afin de pouvoir récupérer lors de la première séance les données climatiques qui seront utilisées pour l’applicatif;&lt;/li&gt;
+  &lt;li&gt;récupérer des données environnementales sur les sites suivants :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html&quot;&gt;IGN&lt;/a&gt; pour les limites administratives et le Modèle numérique de Terrain;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0&quot;&gt;CLC&lt;/a&gt; pour les données d’occupation du sol Corine Land Cover;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;récupérer le dossier de travail
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=ed504d66-2b30-4e7f-8899-c716470b3c63&quot;&gt;Dossier&lt;/a&gt; attention ce lien est temporaire;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;La mise en oeuvre de l’applicatif mobilisera les outils logiciels SIG &lt;a href=&quot;https://www.qgis.org/fr/site/&quot;&gt;&lt;strong&gt;QGIS&lt;/strong&gt;&lt;/a&gt; et de traitement de données et statistiques &lt;a href=&quot;https://www.r-project.org/&quot;&gt;R&lt;/a&gt;. Pour ce dernier nous conseillons de l’utiliser via un environnement interactif de développement du type &lt;a href=&quot;https://rstudio.com/products/rstudio/download/&quot;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt; par exemple.&lt;/p&gt;
+
+&lt;p&gt;L’ensemble des cours et des TD/TP se feront dans la salle 206, aile sud du bâtiment Sciences Gabriel sur le campus de l’Univ. de Bourgogne.&lt;/p&gt;
+
+&lt;p&gt;Enfin nous vous demandons :&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;de lire le document suivant &lt;a href=&quot;/tcastel/assets/bilanhydrique.pdf&quot;&gt;&lt;strong&gt;BH&lt;/strong&gt;&lt;/a&gt; qui contextualise l’objectif de l’applicatif et qui présente les principes et les détails du modèle de bilan hydrique simplifié qui sera utilisé;&lt;/li&gt;
+  &lt;li&gt;de récupérer le diaporama &lt;a href=&quot;/tcastel/assets/PresentationTravaux_M2_SEME_UE4_2023.pdf&quot;&gt;&lt;strong&gt;UE4&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2023 16:00:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/climate%20features/2023/10/17/UE4Climat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/climate%20features/2023/10/17/UE4Climat.html</guid>
+        
+        <category>Contenu</category>
+        
+        <category>et</category>
+        
+        <category>organisation</category>
+        
+        
+        <category>Climate Features</category>
+        
+      </item>
+    
+      <item>
+        <title>UE2 M2SEME: Interpolation spatiale</title>
+        <description>&lt;h3 id=&quot;analyse-données-géographiques--interpolation-spatiale&quot;&gt;Analyse données géographiques : Interpolation spatiale&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectifs :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Afin de pouvoir estimer la part de contribution du ruissellement des pluies sur la pollution au phosphore, il est nécessaire de connaître le cumul de précipitations en tout point du bassin versant. Malheureusement, cette information n’est pas mesurée au niveau du bassin versant. Les stations climatiques disponibles sont situées à l’extérieur de ce dernier.&lt;/p&gt;
+
+&lt;p&gt;Pour estimer les cumuls de pluie au niveau de bassin versant, et pour tous les pixels du MNT nous allons procéder à l’interpolation spatiale.
+L’objet de cette séance est de connaître des techniques communes d’interpolation spatiale des données :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* La régression multiple
+* Le krigeage ordinaire (technique appartenant à la discipline des géostatistiques)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant et après 1987/1988.&lt;/p&gt;
+
+&lt;h3 id=&quot;le-support-du-tp-et-les-données-sont-à-récupérer-ici&quot;&gt;Le support du TP et les données sont à récupérer &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=8a8583c3-ee88-45cb-89cc-423c8d4eb1ca&quot;&gt;ici&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;séance-3--interpolation-mécaniste&quot;&gt;Séance 3 : interpolation mécaniste&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exploration et mise en forme des données;&lt;/li&gt;
+  &lt;li&gt;Agrégation des données climatiques au pas de temps annuel;&lt;/li&gt;
+  &lt;li&gt;Construction du modèle linéaire multiple entre variables explicatives (X, Y et altitude) et la variable climatique (corrélations, partielles ou non) ;&lt;/li&gt;
+  &lt;li&gt;Mesure de la significative des variables retenues dans le modèle (r, p-value);&lt;/li&gt;
+  &lt;li&gt;Évaluation de la qualité du modèle (R2 ajusté, RMSE sur les résidus).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;séance-4--interpolation-géostatistique-ici&quot;&gt;Séance 4 : interpolation géostatistique (&lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=3a4a33e3-e59c-4261-9483-8a63b78d4d17&quot;&gt;ici&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Régression multilinéaire&lt;/li&gt;
+  &lt;li&gt;Krigeage des résidus&lt;/li&gt;
+  &lt;li&gt;Régression-Krigeage&lt;/li&gt;
+  &lt;li&gt;Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage&lt;/li&gt;
+  &lt;li&gt;Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;séance-5--cartographie-des-cumuls-moyen-des-pluies-annuelles&quot;&gt;Séance 5 : Cartographie des cumuls moyen des pluies annuelles&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Import des cartes des cumuls moyen des pluies annuelles dans QGIS;&lt;/li&gt;
+  &lt;li&gt;Calcul du facteur d’érosivité pluviométrique;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Croisement avec la carte des risques de fuite du phosphore sur le BV;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Attendu pour l’évaluation de la partie traitement des données de l’UE2&lt;/li&gt;
+  &lt;li&gt;Données pour l’évaluation &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=b7c1f8ce-ced6-4b98-bc57-b52720435887&quot;&gt;ici&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous reviendrons au cours du TP sur les différentes étapes.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Sep 2023 22:50:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/gis%20features/2023/09/26/UE2M2SEMECarto.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/gis%20features/2023/09/26/UE2M2SEMECarto.html</guid>
+        
+        <category>GIS</category>
+        
+        
+        <category>GIS Features</category>
+        
+      </item>
+    
+      <item>
+        <title>UE2 M2SEME: analyse spatiale avec QGIS</title>
+        <description>&lt;h3 id=&quot;analyse-données-géographiques--interpolation-spatiale&quot;&gt;Analyse données géographiques : Interpolation spatiale&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectifs :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Afin de pouvoir estimer la part de contribution du ruissellement des pluies sur la pollution au phosphore, il est nécessaire de connaître le cumul de précipitations en tout point du bassin versant. Malheureusement, cette information n’est pas mesurée au niveau du bassin versant. Les stations climatiques disponibles sont situées à l’extérieur de ce dernier.&lt;/p&gt;
+
+&lt;p&gt;Pour estimer les cumuls de pluie au niveau de bassin versant, et pour tous les pixels du MNT nous allons procéder à l’interpolation spatiale.
+L’objet de cette séance est de connaître des techniques communes d’interpolation spatiale des données :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* La régression multiple
+* Le krigeage ordinaire (technique appartenant à la discipline des géostatistiques)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant et après 1987/1988.&lt;/p&gt;
+
+&lt;h3 id=&quot;le-support-du-tp-et-les-données-sont-à-récupérer-ici&quot;&gt;Le support du TP et les données sont à récupérer &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=8a8583c3-ee88-45cb-89cc-423c8d4eb1ca&quot;&gt;ici&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;séance-3--interpolation-mécaniste&quot;&gt;Séance 3 : interpolation mécaniste&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exploration et mise en forme des données;&lt;/li&gt;
+  &lt;li&gt;Agrégation des données climatiques au pas de temps annuel;&lt;/li&gt;
+  &lt;li&gt;Construction du modèle linéaire multiple entre variables explicatives (X, Y et altitude) et la variable climatique (corrélations, partielles ou non) ;&lt;/li&gt;
+  &lt;li&gt;Mesure de la significative des variables retenues dans le modèle (r, p-value);&lt;/li&gt;
+  &lt;li&gt;Évaluation de la qualité du modèle (R2 ajusté, RMSE sur les résidus).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;séance-4--interpolation-géostatistique&quot;&gt;Séance 4 : interpolation géostatistique&lt;/h3&gt;
+
+&lt;h3 id=&quot;le-support-et-les-données-sont-à-récupérer-ici&quot;&gt;Le support et les données sont à récupérer &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=3a4a33e3-e59c-4261-9483-8a63b78d4d17&quot;&gt;ici&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Régression multilinéaire&lt;/li&gt;
+  &lt;li&gt;Krigeage des résidus&lt;/li&gt;
+  &lt;li&gt;Régression-Krigeage&lt;/li&gt;
+  &lt;li&gt;Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage&lt;/li&gt;
+  &lt;li&gt;Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous reviendrons au cours du TP sur les différentes étapes.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Sep 2023 17:30:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/gis%20features/2023/09/24/UE2M2SEMESpatial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/gis%20features/2023/09/24/UE2M2SEMESpatial.html</guid>
+        
+        <category>GIS</category>
+        
+        
+        <category>GIS Features</category>
+        
+      </item>
+    
+      <item>
+        <title>UE2 M2SEME: analyse spatiale avec QGIS</title>
+        <description>&lt;h3 id=&quot;analyse-spatiale-de-données-géographiques--pollution-au-phosphore-dans-un-bassin-versant&quot;&gt;Analyse spatiale de données géographiques : Pollution au phosphore dans un bassin versant&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Objectifs pédagogiques :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Savoir analyser des Données spatiales avec QGIS;&lt;/li&gt;
+  &lt;li&gt;Construire une stratégie (i.e. démarche méthodologique) d’analyse spatiale;&lt;/li&gt;
+  &lt;li&gt;Mettre en œuvre cette stratégie avec QGIS pour cartographier un risque de pollution diffuse d’origine agricole à l’échelle d’un bassin versant;&lt;/li&gt;
+  &lt;li&gt;Acquérir les bases de la géostatistique pour évaluer la cohérence spatiale de données;&lt;/li&gt;
+  &lt;li&gt;Développer un regard critique sur la qualité des données spatialisées, leurs intérêts et leurs limites, en particulier dans le cadre d’analyses environnementales;&lt;/li&gt;
+  &lt;li&gt;Exploiter la complémentarité QGIS/R;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;la-présentation-de-lapplicatif-sig-le-support-du-tp-et-les-données-sont-à-récupérer-ici&quot;&gt;La présentation de l’applicatif SIG, le support du TP et les données sont à récupérer &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=cf9ac456-e145-487b-89d7-0d4e9ef69ee8&quot;&gt;ici&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;séance-1&quot;&gt;Séance 1&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduction à la problématique de pollution diffuse d’origine agricole sur le Bassin Versant étudié;&lt;/li&gt;
+  &lt;li&gt;Travail collégial sur le modèle de risque de fuite en phosphore établit par le consortium qui a traité le cas;&lt;/li&gt;
+  &lt;li&gt;Classification des niveaux de risque;&lt;/li&gt;
+  &lt;li&gt;Construction collégiale de la stratégie pour produire une cartographie du risque;&lt;/li&gt;
+  &lt;li&gt;Mise en oeuvre de la démarche d’analyse spatiale pour l’identification des niveaux de risque;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;séance-2&quot;&gt;Séance 2&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Poursuite de la mise en oeuvre&lt;/li&gt;
+  &lt;li&gt;Traitement des données pour identifier les niveaux de risque;&lt;/li&gt;
+  &lt;li&gt;Finalisation des traitements;&lt;/li&gt;
+  &lt;li&gt;Production des résultats et de la carte du risque;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous reviendrons au cours du TP sur les différentes étapes.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Sep 2023 06:30:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/gis%20features/2023/09/21/UE2M2SEMESIG.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/gis%20features/2023/09/21/UE2M2SEMESIG.html</guid>
+        
+        <category>GIS</category>
+        
+        
+        <category>GIS Features</category>
+        
+      </item>
+    
+      <item>
+        <title>Séries temporelles : analyse avec R</title>
+        <description>&lt;h2 id=&quot;objectifs-de-la-séance-&quot;&gt;Objectifs de la séance :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Utiliser le logiciel R pour lire et traiter des tableaux de données&lt;/li&gt;
+&lt;li&gt;Créer et manipuler des séries temporelles. Mobilisation de ’packages adaptés’&lt;/li&gt;
+&lt;li&gt; Appliquer des méthodes et des outils statistiques permettant la détection de ruptures et de tendance dans des séries climatiques continues&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour rappel :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;avec R les # permettent de mettre des commentaires dans le code&lt;/li&gt;
+&lt;li&gt;Pour l&apos;assignement dans un objet on peut utiliser les signes &amp;lt;- ou =&lt;/li&gt;
+&lt;li&gt;Parmis les fonctions très utiles pour explorer les données : class, str, dim, head, tail&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;les-librairies-à-installer-pour-le-tp-sont-&quot;&gt;Les librairies à installer pour le TP sont :&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;trend&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;xts&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;le-script-les-données-et-de-la-docs-sont-à-récupérer-ici--data&quot;&gt;Le script, les données et de la docs sont à récupérer ici : &lt;a href=&quot;https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE2/TP_AST_M2SEME.zip&quot;&gt;&lt;strong&gt;data&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;le-notebook-vous-permet-de-prendre-connaissance-des-différentes-étapes-et-de-commencer-à-tester-le-code-sur-votre-machine&quot;&gt;Le &lt;a href=&quot;https://github.com/thierrycastel/tcnotebook/blob/master/M2SEME_UE2/TP_SeriesTemporelles.ipynb&quot;&gt;&lt;strong&gt;notebook&lt;/strong&gt;&lt;/a&gt; vous permet de prendre connaissance des différentes étapes et de commencer à tester le code sur votre machine.&lt;/h3&gt;
+
+&lt;p&gt;Nous reviendrons au cours du TP sur les différentes étapes.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2023 20:50:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/code%20features/2023/09/14/UE2_AST_M2SEME.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/code%20features/2023/09/14/UE2_AST_M2SEME.html</guid>
+        
+        <category>Packages</category>
+        
+        <category>and</category>
+        
+        <category>notebook</category>
+        
+        
+        <category>Code Features</category>
+        
+      </item>
+    
+      <item>
+        <title>R2D2C : Remise à niveau R</title>
+        <description>&lt;h3 id=&quot;-environnement-et-outils-de-traitement-des-données-&quot;&gt;&lt;u&gt; Environnement et outils de traitement des données &lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/h3&gt;
+
+&lt;p&gt;L’outil logiciel préconisé est &lt;strong&gt;&lt;a href=&quot;https://pbil.univ-lyon1.fr/CRAN/&quot;&gt;R&lt;/a&gt;&lt;/strong&gt; qui permet le traitement avancé des données numériques et leur analyse statistique. Outre qu’il implémente l’état de l’art des méthodes statistiques, R offre la possibilité de tracer les données et de produire des figures de qualité. La mise en oeuvre de ces fonctionnalités est délicate à partir de l’éditeur natif de R. Pour cela différents environnements intégrés de développement encore appelés IDE (Interactive Development Environment) ont été développés afin d’améliorer la prise en main, l’efficacité et les échanges. Parmi les IDE utilisés avec R nous pouvons vous en conseiller deux :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.rstudio.com/products/rstudio/download/&quot;&gt;RStudio&lt;/a&gt;&lt;/strong&gt; qui est un IDE spécifique à R et qui offre une version open-source pour Windows assez facilement installable;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://jupyter.org/&quot;&gt;Jupyter&lt;/a&gt;&lt;/strong&gt; un IDE ‘universel’ s’appuyant sur le concept de notebook qui facilite la publication, les échanges et la réutilisation du code. L’installation sous Windows n’est pas directe et nécessite d’installer la plate-forme &lt;strong&gt;&lt;a href=&quot;https://www.anaconda.com/products/individual&quot;&gt;Anaconda&lt;/a&gt;&lt;/strong&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-installation-de-r--rstudio-ou-r--jupyter-via-anaconda-&quot;&gt;&lt;u&gt; Installation de R + RStudio ou R + Jupyter via Anaconda &lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;r--rstudio&quot;&gt;R + RStudio&lt;/h4&gt;
+&lt;p&gt;Pour Windows :&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;récupérer les exécutables (i.e. .exe) de R et RStudio via les liens ci-dessus;&lt;/li&gt;
+  &lt;li&gt;installer R en utilisant les options proposées par défaut;&lt;/li&gt;
+  &lt;li&gt;installer RStudio en double cliquant sur l’exécutable et suivre les étapes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;anaconda&quot;&gt;Anaconda&lt;/h4&gt;
+&lt;p&gt;L’installation est quasi identique pour windows, linux et macOS. Nous présentons ci-dessous les principales étapes de la récupération à l’installation. Nous montrons comment créer un nouvel environnement avec &lt;strong&gt;R&lt;/strong&gt; et &lt;strong&gt;Jupyterlab&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Récupération d’Anaconda&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/tcastel/media/imganaconda/figure1A.png&quot; alt=&quot;Anaconda&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Installation d’Anaconda&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une fois le fichier exécutable (‘Anaconda3-2022.05-Windows-x86_64.exe’) cliquer deux fois dessus pour lancer l’installation&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/tcastel/media/imganaconda/figure3A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/tcastel/media/imganaconda/figure4A.png&quot; alt=&quot;install2&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/tcastel/media/imganaconda/figure5A.png&quot; alt=&quot;install3&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anaconda Navigator -&amp;gt; menu démarrer&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anaconda apparaît après l’installation dans votre menu démarrer. Il faut lancer &lt;strong&gt;Anaconda Navigator&lt;/strong&gt; pour gérer les environnements et l’installation des packages.
+&lt;img src=&quot;/tcastel/media/imganaconda/figure6A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anaconda propose un environnement isolé afin de gérer les dépendances et la version des logiciels. C’est pour cela qu’il nécessite à minima 3Go d’espace disque et un minimum de mémoire RAM.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anaconda Navigator -&amp;gt; Interface&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;L’interface anaconda de base propose par défaut une séries de logiciel installés ou à installer en fonction des besoins.
+&lt;img src=&quot;/tcastel/media/imganaconda/figure7A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cet environnement de base est très stable. En contrepartie ce ne sont pas les versions les plus récentes des logiciels qui sont proposées. Pour avoir des versions plus récentes il faudra ajouter un liens (Channels).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anaconda Navigator -&amp;gt; Channels&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On vous propose d’ajouter le Channel ou lien &lt;em&gt;conda-forge&lt;/em&gt; qui pointe sur les versions plus récentes et propose plus de packages. 
+&lt;img src=&quot;/tcastel/media/imganaconda/figure8A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce Channel maintenu par une large communauté issue du monde open-source permet de créer de nouveaux environnements opérationnels pour vos besoins. Dans notre cas on vous propose une fois le Channel ajouté de créer un nouvel environnement avec une version plus récente de &lt;strong&gt;R&lt;/strong&gt;, &lt;strong&gt;Jupyterlab&lt;/strong&gt; et le noyau (kernel) de R pour jupyterlab.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anaconda Navigator -&amp;gt; Création d’un nouvel environnement&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ici on active l’intallation de R et python. Anaconda va se baser sur le Channel &lt;em&gt;conda-forge&lt;/em&gt; pour les versions des logiciels.
+&lt;img src=&quot;/tcastel/media/imganaconda/figure9A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Après sa création on va pouvoir ajouter les logiciels et packages dont on a besoin et notamment &lt;strong&gt;jupyterlab&lt;/strong&gt; et les libraries spécifiques en plus des librairies de base.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anaconda Navigator -&amp;gt; Installation de logiciel et librairies&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sélectionner votre nouvel environnement recherche dans les logiciels et librairies non installés &lt;strong&gt;jupyterlab&lt;/strong&gt; et les libraries R listées plus bas dans la page.
+&lt;img src=&quot;/tcastel/media/imganaconda/figure10A.png&quot; alt=&quot;install1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Après cette opération vous pouvez retourner sous &lt;em&gt;Home&lt;/em&gt; et à partir de votre nouvel environnement vous pouvez lancer Jupyterlab. Jupyterlab vous permet d’ouvrir le notebook et lancer les blocs de code. Pour cela il vous faudra récupérer les données via le lien ci dessous et modifier dans le notebook le chemin d’accès aux données .&lt;/p&gt;
+
+&lt;h3 id=&quot;les-librairies-à-installer-pour-la-séance-sont-&quot;&gt;Les librairies à installer pour la séance sont :&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;sf&lt;/strong&gt;, &lt;strong&gt;tidyverse&lt;/strong&gt;, &lt;strong&gt;dplyr&lt;/strong&gt;, &lt;strong&gt;rstatix&lt;/strong&gt;, &lt;strong&gt;rgdal&lt;/strong&gt;, &lt;strong&gt;spatstat&lt;/strong&gt;, &lt;strong&gt;classInt&lt;/strong&gt;, &lt;strong&gt;RColorBrewer&lt;/strong&gt;, &lt;strong&gt;leaps&lt;/strong&gt;, &lt;strong&gt;relaimpo&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;script-et-données&quot;&gt;Script et données&lt;/h3&gt;
+
+&lt;p&gt;Les données, les scripts et les docs sont à récupérer ici : &lt;a href=&quot;https://filesender.renater.fr/?s=download&amp;amp;token=c477e5ef-b99b-4427-aaf9-46ceb9d859fa&quot;&gt;data&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;le-notebook-vous-permet-de-prendre-connaissance-des-différentes-étapes-de-commencer-à-tester-le-code-sur-votre-machine&quot;&gt;&lt;em&gt;Le &lt;a href=&quot;https://github.com/thierrycastel/tcnotebook/blob/master/R2D2C/R4_R2D2C_2023.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/em&gt; vous permet de prendre connaissance des différentes étapes, de commencer à tester le code sur votre machine.&lt;/h3&gt;
+
+&lt;p&gt;Nous reviendrons au cours de la séance sur les différentes étapes.&lt;/p&gt;
+
+&lt;!--  LocalWords:  installable cliquant cliquer
+ --&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2023 16:50:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/code%20features/2023/09/11/R4R2D2C.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/code%20features/2023/09/11/R4R2D2C.html</guid>
+        
+        <category>R,</category>
+        
+        <category>Packages</category>
+        
+        <category>and</category>
+        
+        <category>notebook</category>
+        
+        
+        <category>Code Features</category>
+        
+      </item>
+    
+      <item>
+        <title>2023-2024 Bienvenue</title>
+        <description>&lt;h2 id=&quot;bienvenue-sur-mes-pages&quot;&gt;Bienvenue sur mes pages&lt;/h2&gt;
+&lt;p&gt;Bonjour et bienvenue sur mes pages. Ces pages sont destinées à présenter et appuyer mes activités d’enseignement et de recherche. Pour la partie enseignement elles s’adressent en premier lieu aux élèves-inégieurs de l’institut Agro Dijon et aux étudiants du Master SEME de l’université de Bourgogne. Elles me permettent de mettre à disposition les supports (scripts, données, notebooks, diaporamas etc.) et diverses informations utiles en amont soit de mes interventions ou de celles des intervenants extérieurs.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;---
+Pour les élèves-ingénieurs de la dominantes R2D2C -&amp;gt; cf. page &apos;Remise à niveau R&apos;
+Pour les élèves du Master 2 SEME -&amp;gt; cf. page &apos;Analyse des séries temporelles avec R&apos;
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+</description>
+        <pubDate>Mon, 03 Jul 2023 16:50:00 +0200</pubDate>
+        <link>http://localhost:4000/tcastel/readme/2023/07/03/Readme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tcastel/readme/2023/07/03/Readme.html</guid>
+        
+        <category>post</category>
+        
+        <category>de</category>
+        
+        <category>présentation</category>
+        
+        
+        <category>Readme</category>
+        
+      </item>
+    
+  </channel>
+</rss>

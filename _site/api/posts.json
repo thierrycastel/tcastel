@@ -1,0 +1,91 @@
+[
+
+  
+    {
+        "title": "Module SIG TP2 : occupation du sol autour du Lez",
+        "category": "SIG Features",
+        "url": "http://localhost:4000/tcastel/sig%20features/2023/12/08/TP2SIG.html",
+        "tags": ["Résultats","zone","tampon","CLC","Lez"],
+        "date": "2023-12-08 00:00:00 +0100",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "UE4 Climat : de la donnée à l'adaptation",
+        "category": "Climate Features",
+        "url": "http://localhost:4000/tcastel/climate%20features/2023/10/17/UE4Climat.html",
+        "tags": ["Contenu","et","organisation"],
+        "date": "2023-10-17 16:00:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "UE2 M2SEME: Interpolation spatiale",
+        "category": "GIS Features",
+        "url": "http://localhost:4000/tcastel/gis%20features/2023/09/26/UE2M2SEMECarto.html",
+        "tags": ["GIS"],
+        "date": "2023-09-26 22:50:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "UE2 M2SEME: analyse spatiale avec QGIS",
+        "category": "GIS Features",
+        "url": "http://localhost:4000/tcastel/gis%20features/2023/09/24/UE2M2SEMESpatial.html",
+        "tags": ["GIS"],
+        "date": "2023-09-24 17:30:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "UE2 M2SEME: analyse spatiale avec QGIS",
+        "category": "GIS Features",
+        "url": "http://localhost:4000/tcastel/gis%20features/2023/09/21/UE2M2SEMESIG.html",
+        "tags": ["GIS"],
+        "date": "2023-09-21 06:30:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "Séries temporelles : analyse avec R",
+        "category": "Code Features",
+        "url": "http://localhost:4000/tcastel/code%20features/2023/09/14/UE2_AST_M2SEME.html",
+        "tags": ["Packages","and","notebook"],
+        "date": "2023-09-14 20:50:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "R2D2C : Remise à niveau R",
+        "category": "Code Features",
+        "url": "http://localhost:4000/tcastel/code%20features/2023/09/11/R4R2D2C.html",
+        "tags": ["R,","Packages","and","notebook"],
+        "date": "2023-09-11 16:50:00 +0200",
+        "language": "fr"
+    },
+  
+
+  
+    {
+        "title": "2023-2024 Bienvenue",
+        "category": "Readme",
+        "url": "http://localhost:4000/tcastel/readme/2023/07/03/Readme.html",
+        "tags": ["post","de","présentation"],
+        "date": "2023-07-03 16:50:00 +0200",
+        "language": "fr"
+    }
+  
+
+]

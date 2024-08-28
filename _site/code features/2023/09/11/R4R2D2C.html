@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="fr">
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>R2D2C : Remise à niveau R</title>
+   <meta name="description" content=" Environnement et outils de traitement des données ">
+   <meta name="keywords" content="R,, Packages, and, notebook" />
+   <meta name="HandheldFriendly" content="True">
+   <meta name="robots" content="index,follow">
+   <meta name="googlebot" content="index,follow">
+	<meta property="og:title" content="R2D2C : Remise à niveau R" />
+	<meta property="og:type" content="article" />
+<meta property="og:image" content="http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg" />
+<meta property="og:site_name" content="Thierry Castel" />
+<meta property="og:description" content=" Environnement et outils de traitement des données " />
+<meta property="og:url" content="http://localhost:4000/tcastel/code%20features/2023/09/11/R4R2D2C.html" />
+	<meta property="article:author" content="http://climatologie.u-bourgogne.fr/" />
+	<link rel="author" href="http://climatologie.u-bourgogne.fr/" />
+<meta property="article:published_time" content="2023-09-11T16:50:00+02:00" />
+<meta property="article:tag" content="R," />
+<meta property="article:tag" content="Packages" />
+<meta property="article:tag" content="and" />
+<meta property="article:tag" content="notebook" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="R2D2C : Remise à niveau R">
+<meta name="twitter:url" content="http://localhost:4000/tcastel">
+<meta name="twitter:description" content=" Environnement et outils de traitement des données ">
+<meta name="twitter:image:src" content="http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg">
+  <link rel="stylesheet" href="http://localhost:4000/tcastel/css/screen.css">
+  <link rel="alternate" type="application/rss+xml" title="Thierry Castel" href="http://localhost:4000/tcastel/feed.xml">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-48.png" sizes="48x48" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-62.png" sizes="62x62" type="image/png">
+</head>
+<body class="home-template">
+   <div class="site-wrapper">
+<header class="main-header detail-page image-bg  has-cover" style="background-image: url(http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg)" >
+   <h1 class="page-title"><a href="http://localhost:4000/tcastel/" title="Thierry Castel">Thierry Castel</a></h1>
+   <h2 class="page-description">Regional climate, Variability, Climate Change Impacts</h2>
+   <div class="nav">
+            <a class="page-link" href="http://localhost:4000/tcastel/" title="Home">Home</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/teaching/" title="Teaching">Teaching</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/research/" title="Research">Research</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/cv" title="CV">CV</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/about" title="Contact">Contact</a>
+   </div>
+</header>
+       <main class="content" role="main">
+   <article class="post single-post" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="post-header short-diver">
+           <h1 class="post-title" itemprop="name headline">R2D2C : Remise à niveau R</h1>
+           <section class="post-meta">
+                <time datetime="2023-09-11T16:50:00+02:00" itemprop="datePublished">Sep 11, 2023</time>
+                on
+                <span>R,</span>
+                <span>Packages</span>
+                <span>and</span>
+                <span>notebook</span>
+           </section>
+       </header>
+       <section class="post-content short-diver" itemprop="articleBody">
+           <h3 id="-environnement-et-outils-de-traitement-des-données-"><u> Environnement et outils de traitement des données <u></u></u></h3>
+<p>L’outil logiciel préconisé est <strong><a href="https://pbil.univ-lyon1.fr/CRAN/">R</a></strong> qui permet le traitement avancé des données numériques et leur analyse statistique. Outre qu’il implémente l’état de l’art des méthodes statistiques, R offre la possibilité de tracer les données et de produire des figures de qualité. La mise en oeuvre de ces fonctionnalités est délicate à partir de l’éditeur natif de R. Pour cela différents environnements intégrés de développement encore appelés IDE (Interactive Development Environment) ont été développés afin d’améliorer la prise en main, l’efficacité et les échanges. Parmi les IDE utilisés avec R nous pouvons vous en conseiller deux :</p>
+<ul>
+ <li><strong><a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a></strong> qui est un IDE spécifique à R et qui offre une version open-source pour Windows assez facilement installable;</li>
+ <li><strong><a href="https://jupyter.org/">Jupyter</a></strong> un IDE ‘universel’ s’appuyant sur le concept de notebook qui facilite la publication, les échanges et la réutilisation du code. L’installation sous Windows n’est pas directe et nécessite d’installer la plate-forme <strong><a href="https://www.anaconda.com/products/individual">Anaconda</a></strong>;</li>
+</ul>
+<h3 id="-installation-de-r--rstudio-ou-r--jupyter-via-anaconda-"><u> Installation de R + RStudio ou R + Jupyter via Anaconda <u></u></u></h3>
+<h4 id="r--rstudio">R + RStudio</h4>
+<p>Pour Windows :</p>
+<ol>
+ <li>récupérer les exécutables (i.e. .exe) de R et RStudio via les liens ci-dessus;</li>
+ <li>installer R en utilisant les options proposées par défaut;</li>
+ <li>installer RStudio en double cliquant sur l’exécutable et suivre les étapes.</li>
+</ol>
+<h4 id="anaconda">Anaconda</h4>
+<p>L’installation est quasi identique pour windows, linux et macOS. Nous présentons ci-dessous les principales étapes de la récupération à l’installation. Nous montrons comment créer un nouvel environnement avec <strong>R</strong> et <strong>Jupyterlab</strong>.</p>
+<ul>
+ <li><strong>Récupération d’Anaconda</strong></li>
+</ul>
+<p><img src="/tcastel/media/imganaconda/figure1A.png" alt="Anaconda" /></p>
+<ul>
+ <li><strong>Installation d’Anaconda</strong></li>
+</ul>
+<p>Une fois le fichier exécutable (‘Anaconda3-2022.05-Windows-x86_64.exe’) cliquer deux fois dessus pour lancer l’installation</p>
+<table>
+ <tbody>
+   <tr>
+     <td><img src="/tcastel/media/imganaconda/figure3A.png" alt="install1" /></td>
+     <td><img src="/tcastel/media/imganaconda/figure4A.png" alt="install2" /></td>
+     <td><img src="/tcastel/media/imganaconda/figure5A.png" alt="install3" /></td>
+   </tr>
+ </tbody>
+</table>
+<ul>
+ <li><strong>Anaconda Navigator -&gt; menu démarrer</strong></li>
+</ul>
+<p>Anaconda apparaît après l’installation dans votre menu démarrer. Il faut lancer <strong>Anaconda Navigator</strong> pour gérer les environnements et l’installation des packages.
+<img src="/tcastel/media/imganaconda/figure6A.png" alt="install1" /></p>
+<p>Anaconda propose un environnement isolé afin de gérer les dépendances et la version des logiciels. C’est pour cela qu’il nécessite à minima 3Go d’espace disque et un minimum de mémoire RAM.</p>
+<ul>
+ <li><strong>Anaconda Navigator -&gt; Interface</strong></li>
+</ul>
+<p>L’interface anaconda de base propose par défaut une séries de logiciel installés ou à installer en fonction des besoins.
+<img src="/tcastel/media/imganaconda/figure7A.png" alt="install1" /></p>
+<p>Cet environnement de base est très stable. En contrepartie ce ne sont pas les versions les plus récentes des logiciels qui sont proposées. Pour avoir des versions plus récentes il faudra ajouter un liens (Channels).</p>
+<ul>
+ <li><strong>Anaconda Navigator -&gt; Channels</strong></li>
+</ul>
+<p>On vous propose d’ajouter le Channel ou lien <em>conda-forge</em> qui pointe sur les versions plus récentes et propose plus de packages. 
+<img src="/tcastel/media/imganaconda/figure8A.png" alt="install1" /></p>
+<p>Ce Channel maintenu par une large communauté issue du monde open-source permet de créer de nouveaux environnements opérationnels pour vos besoins. Dans notre cas on vous propose une fois le Channel ajouté de créer un nouvel environnement avec une version plus récente de <strong>R</strong>, <strong>Jupyterlab</strong> et le noyau (kernel) de R pour jupyterlab.</p>
+<ul>
+ <li><strong>Anaconda Navigator -&gt; Création d’un nouvel environnement</strong></li>
+</ul>
+<p>Ici on active l’intallation de R et python. Anaconda va se baser sur le Channel <em>conda-forge</em> pour les versions des logiciels.
+<img src="/tcastel/media/imganaconda/figure9A.png" alt="install1" /></p>
+<p>Après sa création on va pouvoir ajouter les logiciels et packages dont on a besoin et notamment <strong>jupyterlab</strong> et les libraries spécifiques en plus des librairies de base.</p>
+<ul>
+ <li><strong>Anaconda Navigator -&gt; Installation de logiciel et librairies</strong></li>
+</ul>
+<p>Sélectionner votre nouvel environnement recherche dans les logiciels et librairies non installés <strong>jupyterlab</strong> et les libraries R listées plus bas dans la page.
+<img src="/tcastel/media/imganaconda/figure10A.png" alt="install1" /></p>
+<p>Après cette opération vous pouvez retourner sous <em>Home</em> et à partir de votre nouvel environnement vous pouvez lancer Jupyterlab. Jupyterlab vous permet d’ouvrir le notebook et lancer les blocs de code. Pour cela il vous faudra récupérer les données via le lien ci dessous et modifier dans le notebook le chemin d’accès aux données .</p>
+<h3 id="les-librairies-à-installer-pour-la-séance-sont-">Les librairies à installer pour la séance sont :</h3>
+<ul>
+ <li><strong>sf</strong>, <strong>tidyverse</strong>, <strong>dplyr</strong>, <strong>rstatix</strong>, <strong>rgdal</strong>, <strong>spatstat</strong>, <strong>classInt</strong>, <strong>RColorBrewer</strong>, <strong>leaps</strong>, <strong>relaimpo</strong></li>
+</ul>
+<h3 id="script-et-données">Script et données</h3>
+<p>Les données, les scripts et les docs sont à récupérer ici : <a href="https://filesender.renater.fr/?s=download&amp;token=c477e5ef-b99b-4427-aaf9-46ceb9d859fa">data</a></p>
+<h3 id="le-notebook-vous-permet-de-prendre-connaissance-des-différentes-étapes-de-commencer-à-tester-le-code-sur-votre-machine"><em>Le <a href="https://github.com/thierrycastel/tcnotebook/blob/master/R2D2C/R4_R2D2C_2023.ipynb">notebook</a></em> vous permet de prendre connaissance des différentes étapes, de commencer à tester le code sur votre machine.</h3>
+<p>Nous reviendrons au cours de la séance sur les différentes étapes.</p>
+       </section>
+       <footer class="post-footer">
+           <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+   <div class="author-image">
+       <div class="img image-bg" style="background-image: url(http://localhost:4000/tcastel/assets/CRC.png)">
+            <a class="hidden" href="http://localhost:4000/tcastel/assets/CRC.png" itemprop="image">Thierry Castel's Picture</a>
+       </div>
+   </div>
+   <div class="short-diver">
+       <h4 class="author" itemprop="name">Thierry Castel</h4>
+       <div class="author-meta">
+            <span class="author-location icon-location" itemprop="nationality">21000 Dijon, France</span>
+            <span class="author-stats">
+			<i class="icon-stats-bars"></i>
+			7 posts			
+			</span>
+            <span class="author-link icon-link" itemprop="url"><a href="http://climatologie.u-bourgogne.fr/">About</a></span>
+       </div>
+   </div>
+</div>
+       </footer>
+   </article>
+</main>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="pswp__bg"></div>
+   <div class="pswp__scroll-wrap">
+       <div class="pswp__container">
+           <div class="pswp__item"></div>
+           <div class="pswp__item"></div>
+           <div class="pswp__item"></div>
+       </div>
+       <div class="pswp__ui pswp__ui--hidden">
+           <div class="pswp__top-bar">
+               <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+               <div class="pswp__preloader">
+                   <div class="pswp__preloader__icn">
+                       <div class="pswp__preloader__cut">
+                           <div class="pswp__preloader__donut"></div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+               <div class="pswp__share-tooltip"></div>
+           </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+           <div class="pswp__caption">
+               <div class="pswp__caption__center"></div>
+           </div>
+       </div>
+   </div>
+</div>
+<script type="text/javascript">
+var config = {
+  'disqus_shortname': ''
+};
+</script>
+<script src="http://localhost:4000/tcastel/js/jquery-1.12.0.min.js"></script>
+<script src="http://localhost:4000/tcastel/js/jquery.fitvids.js"></script>
+<script src="http://localhost:4000/tcastel/js/prism.js"></script>
+<script src="http://localhost:4000/tcastel/js/photoswipe.js"></script>
+<script src="http://localhost:4000/tcastel/js/photoswipe-ui-default.js"></script>
+<script src="http://localhost:4000/tcastel/js/post.js"></script>
+       <footer class="site-footer">
+    <button class="go-to-top"></button>
+   <p class="copyright"><a href="http://localhost:4000/tcastel" title="Thierry Castel">Thierry Castel</a> &copy; 2024 | <a href="http://localhost:4000/tcastel/feed.xml" title="RSS Feed">RSS Feed</a></p>
+   <p class="poweredby">powered by <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> with the <a href="https://github.com/jwillmer/jekyllDecent" title="jekyllDecent Theme">jekyllDecent</a> theme</p>
+</footer>
+   </div>
+</body>
+<script src="http://localhost:4000/tcastel/js/global.js"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$']]
+    }
+  });
+</script>
+<script type="text/javascript" async
+        src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</html>

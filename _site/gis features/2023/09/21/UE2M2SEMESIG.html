@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fr">
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>UE2 M2SEME: analyse spatiale avec QGIS</title>
+   <meta name="description" content="Analyse spatiale de données géographiques : Pollution au phosphore dans un bassin versant">
+   <meta name="keywords" content="GIS" />
+   <meta name="HandheldFriendly" content="True">
+   <meta name="robots" content="index,follow">
+   <meta name="googlebot" content="index,follow">
+	<meta property="og:title" content="UE2 M2SEME: analyse spatiale avec QGIS" />
+	<meta property="og:type" content="article" />
+<meta property="og:image" content="http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg" />
+<meta property="og:site_name" content="Thierry Castel" />
+<meta property="og:description" content="Analyse spatiale de données géographiques : Pollution au phosphore dans un bassin versant" />
+<meta property="og:url" content="http://localhost:4000/tcastel/gis%20features/2023/09/21/UE2M2SEMESIG.html" />
+	<meta property="article:author" content="http://climatologie.u-bourgogne.fr/" />
+	<link rel="author" href="http://climatologie.u-bourgogne.fr/" />
+<meta property="article:published_time" content="2023-09-21T06:30:00+02:00" />
+<meta property="article:tag" content="GIS" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="UE2 M2SEME: analyse spatiale avec QGIS">
+<meta name="twitter:url" content="http://localhost:4000/tcastel">
+<meta name="twitter:description" content="Analyse spatiale de données géographiques : Pollution au phosphore dans un bassin versant">
+<meta name="twitter:image:src" content="http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg">
+  <link rel="stylesheet" href="http://localhost:4000/tcastel/css/screen.css">
+  <link rel="alternate" type="application/rss+xml" title="Thierry Castel" href="http://localhost:4000/tcastel/feed.xml">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-48.png" sizes="48x48" type="image/png">
+  <link rel="icon" href="http://localhost:4000/tcastel/assets/favicon-62.png" sizes="62x62" type="image/png">
+</head>
+<body class="home-template">
+   <div class="site-wrapper">
+<header class="main-header detail-page image-bg  has-cover" style="background-image: url(http://localhost:4000/tcastel/assets/gergueil_soir_bandeau.jpg)" >
+   <h1 class="page-title"><a href="http://localhost:4000/tcastel/" title="Thierry Castel">Thierry Castel</a></h1>
+   <h2 class="page-description">Regional climate, Variability, Climate Change Impacts</h2>
+   <div class="nav">
+            <a class="page-link" href="http://localhost:4000/tcastel/" title="Home">Home</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/teaching/" title="Teaching">Teaching</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/research/" title="Research">Research</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/cv" title="CV">CV</a>
+            <a class="page-link" href="http://localhost:4000/tcastel/about" title="Contact">Contact</a>
+   </div>
+</header>
+       <main class="content" role="main">
+   <article class="post single-post" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="post-header short-diver">
+           <h1 class="post-title" itemprop="name headline">UE2 M2SEME: analyse spatiale avec QGIS</h1>
+           <section class="post-meta">
+                <time datetime="2023-09-21T06:30:00+02:00" itemprop="datePublished">Sep 21, 2023</time>
+                on
+                <span>GIS</span>
+           </section>
+       </header>
+       <section class="post-content short-diver" itemprop="articleBody">
+           <h3 id="analyse-spatiale-de-données-géographiques--pollution-au-phosphore-dans-un-bassin-versant">Analyse spatiale de données géographiques : Pollution au phosphore dans un bassin versant</h3>
+<p><strong>Objectifs pédagogiques :</strong></p>
+<ul>
+ <li>Savoir analyser des Données spatiales avec QGIS;</li>
+ <li>Construire une stratégie (i.e. démarche méthodologique) d’analyse spatiale;</li>
+ <li>Mettre en œuvre cette stratégie avec QGIS pour cartographier un risque de pollution diffuse d’origine agricole à l’échelle d’un bassin versant;</li>
+ <li>Acquérir les bases de la géostatistique pour évaluer la cohérence spatiale de données;</li>
+ <li>Développer un regard critique sur la qualité des données spatialisées, leurs intérêts et leurs limites, en particulier dans le cadre d’analyses environnementales;</li>
+ <li>Exploiter la complémentarité QGIS/R;</li>
+</ul>
+<h3 id="la-présentation-de-lapplicatif-sig-le-support-du-tp-et-les-données-sont-à-récupérer-ici">La présentation de l’applicatif SIG, le support du TP et les données sont à récupérer <a href="https://filesender.renater.fr/?s=download&amp;token=cf9ac456-e145-487b-89d7-0d4e9ef69ee8">ici</a></h3>
+<h3 id="séance-1">Séance 1</h3>
+<ul>
+ <li>Introduction à la problématique de pollution diffuse d’origine agricole sur le Bassin Versant étudié;</li>
+ <li>Travail collégial sur le modèle de risque de fuite en phosphore établit par le consortium qui a traité le cas;</li>
+ <li>Classification des niveaux de risque;</li>
+ <li>Construction collégiale de la stratégie pour produire une cartographie du risque;</li>
+ <li>Mise en oeuvre de la démarche d’analyse spatiale pour l’identification des niveaux de risque;</li>
+</ul>
+<h3 id="séance-2">Séance 2</h3>
+<ul>
+ <li>Poursuite de la mise en oeuvre</li>
+ <li>Traitement des données pour identifier les niveaux de risque;</li>
+ <li>Finalisation des traitements;</li>
+ <li>Production des résultats et de la carte du risque;</li>
+</ul>
+<p>Nous reviendrons au cours du TP sur les différentes étapes.</p>
+       </section>
+       <footer class="post-footer">
+           <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+   <div class="author-image">
+       <div class="img image-bg" style="background-image: url(http://localhost:4000/tcastel/assets/CRC.png)">
+            <a class="hidden" href="http://localhost:4000/tcastel/assets/CRC.png" itemprop="image">Thierry Castel's Picture</a>
+       </div>
+   </div>
+   <div class="short-diver">
+       <h4 class="author" itemprop="name">Thierry Castel</h4>
+       <div class="author-meta">
+            <span class="author-location icon-location" itemprop="nationality">21000 Dijon, France</span>
+            <span class="author-stats">
+			<i class="icon-stats-bars"></i>
+			7 posts			
+			</span>
+            <span class="author-link icon-link" itemprop="url"><a href="http://climatologie.u-bourgogne.fr/">About</a></span>
+       </div>
+   </div>
+</div>
+       </footer>
+   </article>
+</main>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="pswp__bg"></div>
+   <div class="pswp__scroll-wrap">
+       <div class="pswp__container">
+           <div class="pswp__item"></div>
+           <div class="pswp__item"></div>
+           <div class="pswp__item"></div>
+       </div>
+       <div class="pswp__ui pswp__ui--hidden">
+           <div class="pswp__top-bar">
+               <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+               <div class="pswp__preloader">
+                   <div class="pswp__preloader__icn">
+                       <div class="pswp__preloader__cut">
+                           <div class="pswp__preloader__donut"></div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+               <div class="pswp__share-tooltip"></div>
+           </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+           <div class="pswp__caption">
+               <div class="pswp__caption__center"></div>
+           </div>
+       </div>
+   </div>
+</div>
+<script type="text/javascript">
+var config = {
+  'disqus_shortname': ''
+};
+</script>
+<script src="http://localhost:4000/tcastel/js/jquery-1.12.0.min.js"></script>
+<script src="http://localhost:4000/tcastel/js/jquery.fitvids.js"></script>
+<script src="http://localhost:4000/tcastel/js/prism.js"></script>
+<script src="http://localhost:4000/tcastel/js/photoswipe.js"></script>
+<script src="http://localhost:4000/tcastel/js/photoswipe-ui-default.js"></script>
+<script src="http://localhost:4000/tcastel/js/post.js"></script>
+       <footer class="site-footer">
+    <button class="go-to-top"></button>
+   <p class="copyright"><a href="http://localhost:4000/tcastel" title="Thierry Castel">Thierry Castel</a> &copy; 2024 | <a href="http://localhost:4000/tcastel/feed.xml" title="RSS Feed">RSS Feed</a></p>
+   <p class="poweredby">powered by <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> with the <a href="https://github.com/jwillmer/jekyllDecent" title="jekyllDecent Theme">jekyllDecent</a> theme</p>
+</footer>
+   </div>
+</body>
+<script src="http://localhost:4000/tcastel/js/global.js"></script>
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$']]
+    }
+  });
+</script>
+<script type="text/javascript" async
+        src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</html>
