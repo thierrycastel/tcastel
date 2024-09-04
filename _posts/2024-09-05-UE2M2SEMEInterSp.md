@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "UE2 M2SEME: Interpolation spatiale"
-date:              2024-09-05 21:40:00 +0300
+date:              2024-09-04 21:40:00 +0300
 tags:              GIS
 category:          GIS Features
 author:            tcastel
@@ -34,15 +34,6 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant 
 * Mesure de la significative des variables retenues dans le modèle (r, p-value);
 * Évaluation de la qualité du modèle (R2 ajusté, RMSE sur les résidus).
 
-### Séance 4 : interpolation géostatistique ([ici](https://filesender.renater.fr/?s=download&token=29175ade-96d5-426b-b985-7d865f172689))
-
-
-* Régression multilinéaire
-* Krigeage des résidus
-* Régression-Krigeage
-* Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage
-* Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.
-
 ### Séance 5 : Cartographie des cumuls moyen des pluies annuelles
 
 * Import des cartes des cumuls moyen des pluies annuelles dans QGIS;
@@ -55,4 +46,13 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant 
 
 Nous reviendrons au cours du TP sur les différentes étapes.
 
+
+### Séance 4 : interpolation géostatistique ([ici](https://filesender.renater.fr/?s=download&token=29175ade-96d5-426b-b985-7d865f172689))
+
+
+* Régression multilinéaire
+* Krigeage des résidus
+* Régression-Krigeage
+* Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage
+* Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.
 
