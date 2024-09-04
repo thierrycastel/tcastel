@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "UE2 M2SEME: Interpolation spatiale"
-date:              2023-09-26 23:50:00 +0300
+date:              2024-09-05 21:40:00 +0300
 tags:              GIS
 category:          GIS Features
 author:            tcastel
@@ -24,7 +24,7 @@ L’objet de cette séance est de connaître des techniques communes d’interpo
 Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant et après 1987/1988. 
 
   
-### Le support du TP et les données sont à récupérer [ici](https://filesender.renater.fr/?s=download&token=8a8583c3-ee88-45cb-89cc-423c8d4eb1ca)
+### Le support du TP et les données sont à récupérer [ici](https://filesender.renater.fr/?s=download&token=29175ade-96d5-426b-b985-7d865f172689)
 
 ### Séance 3 : interpolation mécaniste
 
@@ -34,7 +34,7 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant 
 * Mesure de la significative des variables retenues dans le modèle (r, p-value);
 * Évaluation de la qualité du modèle (R2 ajusté, RMSE sur les résidus).
 
-### Séance 4 : interpolation géostatistique ([ici](https://filesender.renater.fr/?s=download&token=3a4a33e3-e59c-4261-9483-8a63b78d4d17))
+### Séance 4 : interpolation géostatistique ([ici](https://filesender.renater.fr/?s=download&token=29175ade-96d5-426b-b985-7d865f172689))
 
 
 * Régression multilinéaire
