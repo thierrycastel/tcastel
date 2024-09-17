@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "UE2 M2SEME: Interpolation spatiale"
-date:              2024-09-04 21:40:00 +0300
+date:              2024-09-17 21:00:00 +0300
 tags:              GIS
 category:          GIS Features
 author:            tcastel
@@ -50,8 +50,8 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie avant 
 * Calcul du facteur d'érosivité pluviométrique;
 * Croisement avec la carte des risques de fuite du phosphore sur le BV;
 
-* Attendu pour l'évaluation de la partie traitement des données de l'UE2
-* Données pour l'évaluation [ici](https://filesender.renater.fr/?s=download&token=b7c1f8ce-ced6-4b98-bc57-b52720435887)
+* Attendu pour l'évaluation de la partie traitement des données de l'[**UE2**]({{ site.baseurl }}{% link /media/M2SEMEvalUE2/TD5-Evaluation_UE2-DonneesSpatiales_M2SEME.pdf %})
+* Données pour l'évaluation [**ici**]({{ site.baseurl }}{% link /media/M2SEMEvalUE2/Pour_Etudiants_Evaluation.zip %})
 
 
 Nous reviendrons au cours du TP sur les différentes étapes.
