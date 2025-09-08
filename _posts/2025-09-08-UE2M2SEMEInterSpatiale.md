@@ -24,7 +24,7 @@ L’objet de cette dernière partie de l'UE 2 : traitement de la donnée est de 
 Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesurés par le réseau des stations de Météo-France. 
 
   
-### Le support du TP, les données (MNT, départements, BV), les scripts pour les 3 premières étapes sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=f58155b0-666d-4dfd-a363-eb5bfb55d01e)
+### Le support du TP, les données (MNT, départements, BV), les scripts pour les 3 premières étapes sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=f58155b0-666d-4dfd-a363-eb5bfb55d01e))
 
 
 # Les étapes du travail
@@ -32,12 +32,12 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 ### Étape 1 : Traitement et mise en forme des données
 
 * Lecture des données ;
-* Agrégation des données climatiques au pas de temps annuel;
-* nettoyage des données 
+* Agrégation des données climatiques au pas de temps annuel par station et pour toute la période;
+* Nettoyage et sélection des données pour l'interpolation;
 
 ### Étape 2 : Exploration et modèle de régression 
 
-* Construction du modèle linéaire multiple entre variables explicatives (X, Y et altitude) et la variable climatique (corrélations) ;
+* Construction du modèle linéaire multiple entre variables explicatives (X, Y et altitude) et la variable climatique (corrélations);
 * Mesure de la significative des variables retenues dans le modèle (r, p-value);
 * Évaluation de la qualité du modèle (R2 ajusté, RMSE sur les résidus).
 
@@ -50,9 +50,9 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 
 * Krigeage des résidus
 * Régression-Krigeage
-* Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire, Krigeage et Régression-Krigeage
-* Interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.
+* Evaluation de la qualité des trois méthodes d’interpolation : Régression multilinéaire et Régression-Krigeage
 
+* Réaliser l'interpolation des cumuls de pluie annuels moyens de part et d’autre de la rupture 1987/1988.
 
 Nous reviendrons au cours du TP sur les différentes étapes.
 
