@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "UE2 M2SEME: Interpolation spatiale"
-date:              2025-09-08 17:30:00 +0300
+date:              2025-09-10 17:30:00 +0300
 tags:              GIS
 category:          GIS Features
 author:            tcastel
@@ -56,3 +56,5 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 
 Nous reviendrons au cours du TP sur les différentes étapes.
 
+### Éléments pour l'évaluation
+* Les documents ainsi que le script du TP4 sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=03e39345-84f4-4ec7-a388-467f4deb6853))
