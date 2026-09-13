@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "UE2 M2SEME: Interpolation spatiale"
-date:              2025-09-10 17:30:00 +0300
+date:              2026-09-13 21:14:00 +0300
 tags:              GIS
 category:          GIS Features
 author:            tcastel
@@ -24,7 +24,7 @@ L’objet de cette dernière partie de l'UE 2 : traitement de la donnée est de 
 Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesurés par le réseau des stations de Météo-France. 
 
   
-### Le support du TP, les données (MNT, départements, BV), les scripts pour les 3 premières étapes sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=f58155b0-666d-4dfd-a363-eb5bfb55d01e))
+### Le support du TP, les données (MNT, départements, BV), les scripts pour les 3 premières étapes sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=87d8f3aa-d0d3-4c01-8e09-bbd50537554a))
 
 
 # Les étapes du travail
@@ -35,7 +35,7 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 * Agrégation des données climatiques au pas de temps annuel par station et pour toute la période;
 * Nettoyage et sélection des données pour l'interpolation;
 
-### Étape 2 : Exploration et modèle de régression 
+### Étape 2 : Exploration et modèle de régression
 
 * Construction du modèle linéaire multiple entre variables explicatives (X, Y et altitude) et la variable climatique (corrélations);
 * Mesure de la significative des variables retenues dans le modèle (r, p-value);
@@ -57,4 +57,4 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 Nous reviendrons au cours du TP sur les différentes étapes.
 
 ### Éléments pour l'évaluation
-* Les documents ainsi que le script du TP4 sont à récupérer ([ici](https://filesender.renater.fr/?s=download&token=03e39345-84f4-4ec7-a388-467f4deb6853))
+* Les consignes pour l'évaluation sont à récupérer ([ici]())
