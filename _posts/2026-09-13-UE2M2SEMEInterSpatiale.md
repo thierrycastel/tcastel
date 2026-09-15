@@ -57,4 +57,4 @@ Vous serez guidés pas à pas pour interpoler les cumuls annuels de pluie mesur�
 Nous reviendrons au cours du TP sur les différentes étapes.
 
 ### Éléments pour l'évaluation
-* Les consignes pour l'évaluation sont à récupérer ([ici]())
+* Les consignes pour l'évaluation sont à récupérer ([ici](https://github.com/thierrycastel/tcastel/blob/master/media/M2SEMEvalUE2/Attendus_consignes_evaluation_UE2-DonneesSpatiales_M2SEME.pdf))
